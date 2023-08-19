@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # **BigTh!nk AI**
 ## Useful Links:
 - Live Website: https://bigthinkaiumd.github.io/BigThink-AI/
